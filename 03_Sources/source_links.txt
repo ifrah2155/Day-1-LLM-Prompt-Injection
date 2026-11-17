@@ -1,0 +1,63 @@
+DAY 1 – LLM PROMPT INJECTION
+PUBLIC SOURCE LINK LIST
+
+Candidate: Ifrah Hasware
+Track: Security Research
+Date: 17 November 2026
+
+E1 – OWASP LLM01:2025
+Title: Prompt Injection
+URL:
+https://genai.owasp.org/llmrisk/llm01-prompt-injection/
+
+Evidence:
+01_owasp_llm01-1.png
+01_owasp_llm01-2.png
+
+E2 – Greshake et al. (2023)
+Title: Not what you've signed up for:
+Compromising Real-World LLM-Integrated
+Applications with Indirect Prompt Injection
+
+Authors: Kai Greshake, Sahar Abdelnabi,
+Shailesh Mishra, Christoph Endres,
+Thorsten Holz, Mario Fritz.
+
+URL:
+https://arxiv.org/abs/2302.12173
+
+PDF:
+https://arxiv.org/pdf/2302.12173
+
+Evidence:
+02_greshake_abstract.png
+
+E3 – MITRE ATLAS
+Technique: AML.T0051
+Title: LLM Prompt Injection
+
+URL:
+https://atlas.mitre.org/techniques/AML.T0051
+
+Evidence:
+03_AML.T0051-1.png
+03_AML.T0051-2.png
+
+E4 – NVD CVE-2025-32711
+Title: Microsoft 365 Copilot AI Command Injection
+
+URL:
+https://nvd.nist.gov/vuln/detail/CVE-2025-32711
+
+Microsoft reference:
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-32711
+
+Evidence:
+04_nvd_CVE-2025-32711.png
+
+Note:
+NVD CVSS 3.x: 7.5 HIGH
+Microsoft CNA CVSS 3.x: 9.3 CRITICAL
+
+All evidence is based on publicly available
+reference material.
